@@ -1,7 +1,7 @@
- # DEMO
+# DEMO
 
- Some description and practicing!
- 
-##Subheader
+Some description and practicing!
+
+## SUBHEADER 
 
 Tutorial practice
